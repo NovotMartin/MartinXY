@@ -12,7 +12,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "s:/repos/MartinXY/Marlin-1.1.x/.pioenvs/megaatmega2560/firmware.elf",
+            "executable": "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.pioenvs/megaatmega2560/firmware.elf",
             "toolchainBinDir": "C:/Users/novot/.platformio/packages/toolchain-atmelavr/bin",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -24,7 +24,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "s:/repos/MartinXY/Marlin-1.1.x/.pioenvs/megaatmega2560/firmware.elf",
+            "executable": "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.pioenvs/megaatmega2560/firmware.elf",
             "toolchainBinDir": "C:/Users/novot/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }

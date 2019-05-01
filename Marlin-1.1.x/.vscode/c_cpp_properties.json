@@ -1,8 +1,7 @@
 {
     "configurations": [
         {
-            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags",
-            "intelliSenseMode": "msvc-x64"
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
         },
         {
             "name": "Win32",
@@ -14,18 +13,17 @@
                 "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/Arduino-L6470/src",
                 "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/LiquidCrystal_I2C_ID576",
                 "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
-                "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/TMC2130Stepper_ID1493/src",
-                "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/TMC2208Stepper/src",
                 "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/U8glib-HAL_ID1932/src",
                 "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
                 "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/c1921b4",
+                "C:/Users/novot/.platformio/lib/TMC2208Stepper_ID1605/src",
                 "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
                 "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/_tmp_installing-dzwvis-package",
+                "C:/Users/novot/.platformio/lib/TMCStepper_ID5513/src",
                 "C:/Users/novot/.platformio/lib/U8glib_ID7/src",
                 "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
                 "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
                 "C:/Users/novot/.platformio/packages/tool-unity",
-                "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/include",
                 "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/Marlin",
                 ""
             ],
@@ -40,24 +38,23 @@
                     "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/Arduino-L6470/src",
                     "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/LiquidCrystal_I2C_ID576",
                     "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
-                    "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/TMC2130Stepper_ID1493/src",
-                    "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/TMC2208Stepper/src",
                     "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/U8glib-HAL_ID1932/src",
                     "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
                     "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/c1921b4",
+                    "C:/Users/novot/.platformio/lib/TMC2208Stepper_ID1605/src",
                     "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
                     "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/.piolibdeps/_tmp_installing-dzwvis-package",
+                    "C:/Users/novot/.platformio/lib/TMCStepper_ID5513/src",
                     "C:/Users/novot/.platformio/lib/U8glib_ID7/src",
                     "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
                     "C:/Users/novot/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
                     "C:/Users/novot/.platformio/packages/tool-unity",
-                    "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/include",
                     "s:/repos/MartinXY/MartinXY/Marlin-1.1.x/Marlin",
                     ""
                 ]
             },
             "defines": [
-                "PLATFORMIO=30606",
+                "PLATFORMIO=30607",
                 "ARDUINO_AVR_MEGA2560",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
@@ -68,7 +65,7 @@
             "intelliSenseMode": "clang-x64",
             "cStandard": "c11",
             "cppStandard": "c++11",
-            "compilerPath": "C:/Users/novot/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe -mmcu=atmega2560"
+            "compilerPath": "\"C:/Users/novot/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe\" -mmcu=atmega2560"
         }
     ],
     "version": 4
